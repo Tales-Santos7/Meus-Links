@@ -1,0 +1,13 @@
+@media(max-width: 1080px) {
+    section {
+        margin-left: -5px;
+        height: 753px;
+        width: 375px;
+        padding: 10px;
+        margin-left: 17px;
+    } 
+
+    .avatar {
+        margin-left: 99px;
+    }
+}

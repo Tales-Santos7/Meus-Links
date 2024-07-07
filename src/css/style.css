@@ -1,0 +1,86 @@
+body {
+    font-family: "Inter";
+    background-color: hsl(0, 0%, 8%);
+}
+
+section {
+    margin-top: 330px;
+    margin-bottom: 330px;
+    background-color: hsl(0, 0%, 12%);
+    padding: 34px;
+    width: 578px;
+    height: 730px;
+    margin-left: 330px;
+    margin-right: 330px;
+    border-radius: 25px;
+    padding-bottom: 70px;
+}
+
+.avatar {
+    display: flex;
+    border-radius: 90px;
+    margin-top: 27px;
+    margin-left: 200px;
+}
+
+.nome {
+    color: #ffffff;
+    font-weight: 700;
+    text-align: center;
+}
+
+.localizacao {
+    color: yellow;
+    font-weight: 600;
+    text-align: center;
+}
+
+p {
+    color: #ffffff;
+    font-size: 14px;
+    text-align: center;
+    font-weight: 400;
+}
+
+.redes-sociais {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.redes-sociais:hover {
+    cursor: pointer;
+}
+
+.lista-links,
+a {
+    text-align: center;
+    list-style: none;
+    padding-right: 20px;
+    display: block;
+    color: inherit;
+}
+
+.li-link-1,
+.li-link-2,
+.li-link-3,
+.li-link-4,
+.li-link-5 {
+    background-color: hsl(0, 0%, 20%);
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    font-size: 18px;
+    margin-left: -22px;
+    font-weight: 600;
+}
+
+.li-link-1:hover,
+.li-link-2:hover,
+.li-link-3:hover,
+.li-link-4:hover,
+.li-link-5:hover {
+    cursor: pointer;
+    background-color: hsl(75, 94%, 57%);
+    transition: 0.5s;
+
+}
