@@ -4,12 +4,10 @@ body {
 }
 
 section {
-    margin-top: 330px;
-    margin-bottom: 330px;
     background-color: hsl(0, 0%, 12%);
     padding: 34px;
     width: 578px;
-    height: 730px;
+    height: 700px;
     margin-left: 330px;
     margin-right: 330px;
     border-radius: 25px;
